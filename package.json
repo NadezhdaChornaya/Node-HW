@@ -23,7 +23,6 @@
 	},
 	"homepage": "https://github.com/NadezhdaChornaya/Node-HW#readme",
 	"dependencies": {
-		"shortid": "^2.2.16",
 		"uuidv4": "^6.2.6",
 		"yargs": "^16.2.0"
 	},
